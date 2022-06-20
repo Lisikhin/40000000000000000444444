@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient(blue,  rgb(19, 160, 241) ,rgb(122, 122, 240))  ;
+}
+a{
+     text-decoration: none;
+    font-size: 20px;
+    color: black;
+    background-image: linear-gradient(to left, rgb(13, 69, 224),rgb(13, 145, 197),rgb(11, 224, 224));
+    padding: 6px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 0 black;
+}
+li:hover{
+   background-image: linear-gradient(to left, rgb(13, 69, 224),rgb(13, 145, 197),rgb(11, 224, 224));  
+}
